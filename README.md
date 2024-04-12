@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eraimu. I'm a linguistics student from Barcelona. 
-- 👀 I'm interested in Computational Linguistics. 
+- 👋 Hi, I’m @eraimu, a Computational Linguistics student at Stuttgart University. 
+- 👀 I'm interested in Computational Semantics.
 - 🌱 I’m currently learning Python! 
 
 <!---
